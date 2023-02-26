@@ -1,5 +1,5 @@
 <p><img align="center" height="150" width="1200" src="https://media.tenor.com/9vRAkntogEMAAAAd/background.gif" alt="gabotx" /></p>
----
+
 
 <h1 align="center">Hi 👋, I'm Gabriel Sareñana</h1>
 <h3 align="center">A Mechatronic Engineer who passionates new techonolgy, automation, and the way how things work</h3>
