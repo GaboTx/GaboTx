@@ -1,9 +1,9 @@
+<p><img align="center" height="150" width="1200" src="https://media.tenor.com/9vRAkntogEMAAAAd/background.gif" alt="gabotx" /></p>
+---
+
 <h1 align="center">Hi 👋, I'm Gabriel Sareñana</h1>
 <h3 align="center">A Mechatronic Engineer who passionates new techonolgy, automation, and the way how things work</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabotx&label=Profile%20views&color=0e75b6&style=flat" alt="gabotx" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabotx" alt="gabotx" /></a> </p>
+<p><img align="right" height="300" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="gabotx" /></p>
 
 <p align="left"> <a href="https://twitter.com/gaby_gabriel99" target="blank"><img src="https://img.shields.io/twitter/follow/gaby_gabriel99?logo=twitter&style=for-the-badge" alt="gaby_gabriel99" /></a> </p>
 
@@ -20,6 +20,11 @@
 - 📫 How to reach me **gabrielsl.contact@gmail.com**
 
 - ⚡ Fun fact **When I was 5 years old I built my first coomputer, it was love at first sight**
+
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=gabotx&label=Profile%20views&color=0e75b6&style=flat" alt="gabotx" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabotx" alt="gabotx" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
