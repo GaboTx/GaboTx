@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gaby_gabriel99" target="blank"><img src="https://img.shields.io/twitter/follow/gaby_gabriel99?logo=twitter&style=for-the-badge" alt="gaby_gabriel99" /></a> </p>
 
-- 🔭 I’m currently working on **Quanta Computer**
+- 🔭 I’m currently working on **Quanta Computer** as a SMT Engineer on Tesla's PCBs mounted on Cybertruck 
 
 - 🌱 I’m currently learning **Python, Data Analize, Automation**
 
